@@ -1,16 +1,9 @@
-# travel_app
+# Travel App
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mô tả:
+  Để chia sẽ những cuộc trải nghiệm, phiêu lưu của những blogger thú vị như thế nào, những cảm xúc như thế xảy ra ở nơi đâu. Tất cả đều có trong Travel Blog App – nơi tổng hợp chủ yếu các chuyến đi của những blogger về thiên nhiên núi, rừng.
+    - Cho phép người dùng cảm nhận thông qua các Story của các blogger.
+    - Có thể tìm những tin tức liên quan đến các chủ đề về thiên nhiên như núi, rừng, sông… được cập nhật hàng ngày.
+    Công nghệ sử dụng: Flutter.
+## Link demo:
+https://drive.google.com/drive/u/0/folders/1C7bNNx2Qx_4A79s8yeAPEn_4hYlIaCCA
